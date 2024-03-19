@@ -4,23 +4,26 @@ Added new line for push into github.
 
 Updated this line in Github for Pull example.
 
-<<<<<<< HEAD
+
 Added this line for pull conflict in local.
-=======
+
 Added this line in Github for pull conflict.
->>>>>>> 58974920eb68835564b7509591700c4ff40ace86
+
 
 Getting this format when there is a conflict in pull.
 
-<<<<<<< HEAD
 Adding new line for checking pull conflict while pushing it from local.
-=======
+
 Adding new line in Github for pull conflict while push.
->>>>>>> c900cfa1c08192a63f44c139abf45cf06095a4d6
 
 Checked what error we are getting when pushing the code while having pull conflict.
 It asking to do the PULL request first.
 
 Created branch Aravindh. Adding this to push it into github.
+
+Created branch2. Adding this to check the push.
+
+Branch update by Aravindh 2.
+
 
 Adding lines from Aravindh branch for merging though Github.
