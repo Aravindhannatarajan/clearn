@@ -3,3 +3,5 @@ New file for Github exercise.
 Added new line for push into github.
 
 Updated this line in Github for Pull example.
+
+Added this line for pull conflict in local.
