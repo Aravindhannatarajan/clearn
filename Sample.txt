@@ -20,3 +20,5 @@ Adding new line in Github for pull conflict while push.
 
 Checked what error we are getting when pushing the code while having pull conflict.
 It asking to do the PULL request first.
+
+Created branch Aravindh. Adding this to push it into github.
