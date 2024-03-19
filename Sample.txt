@@ -4,4 +4,10 @@ Added new line for push into github.
 
 Updated this line in Github for Pull example.
 
+<<<<<<< HEAD
 Added this line for pull conflict in local.
+=======
+Added this line in Github for pull conflict.
+>>>>>>> 58974920eb68835564b7509591700c4ff40ace86
+
+Getting this format when there is a conflict in pull.
