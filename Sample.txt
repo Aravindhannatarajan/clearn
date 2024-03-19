@@ -12,4 +12,11 @@ Added this line in Github for pull conflict.
 
 Getting this format when there is a conflict in pull.
 
+<<<<<<< HEAD
 Adding new line for checking pull conflict while pushing it from local.
+=======
+Adding new line in Github for pull conflict while push.
+>>>>>>> c900cfa1c08192a63f44c139abf45cf06095a4d6
+
+Checked what error we are getting when pushing the code while having pull conflict.
+It asking to do the PULL request first.
