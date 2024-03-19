@@ -11,3 +11,5 @@ Added this line in Github for pull conflict.
 >>>>>>> 58974920eb68835564b7509591700c4ff40ace86
 
 Getting this format when there is a conflict in pull.
+
+Adding new line in Github for pull conflict while push.
